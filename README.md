@@ -34,20 +34,7 @@ Data is scrapped in the Spring of 2019 from the Skytrax website. Data includes a
 <p><b>EDA</b>:
  The primary goal of EDA is to support the analysis of data prior to making any conclusions. It may aid in the detection of apparent errors, as well as a deeper understanding of data patterns, the detection of outliers or anomalous events, and the discovery of interesting relationships between variables.</p>
   
-   <li> Review features are having high correlation with review score</li>
-   <li>Rating columns are having highly positive correlation with dependent variable.</li>
-   <li>Since economy class fares are less expensive, 77 percent of passengers opted to travel in this class.</li>
-   <li>Highest travel history is present in the month of july</li>
-   <li>he top 5 airlines preferred are Spirit, American, United, British, Emirates Airlines.</li><p>
-     
-  <p><b>IImputation of NaN values in independent and dependent columns</b>:
- <li>Using mean of sub ratings to fill NAN value in overall rating missing values.
-<li>With the help of classification algorithms like GaussianNB,MultiNomialNB and GausianNB, prediction was made based on review text as input feature.
-MultinomialNB is performing best in all naive bayes classifiers. Therefore now we have a model with 86% accuracy. We use this model to fill the dependent column.</li>
- <li>Using overall review score, filled the missing values in other sub-rating columns'.
-</li>
-</p>
-
+  
 <p><b>Feature Engineering</b>:
   Engineered new features based on-
   <li>Date of travel</li>
@@ -61,7 +48,7 @@ MultinomialNB is performing best in all naive bayes classifiers. Therefore now w
   <li>Logistic Regression</li>
   <li>DecisionTree</li>
   <li>Random Forest</li>
-  <li>Gradient Boosting</li>
+  <li>K-Nearest Neighbour</li>
   <li>XG Boost</li>
   <li>SVM</li>
   
