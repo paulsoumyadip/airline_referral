@@ -10,8 +10,6 @@ Air transport or aviation plays a very important role in the present transport s
 
 Data is scrapped in the Spring of 2019 from the Skytrax website. Data includes airline reviews from 2006 to 2019 for popular airlines around the world with multiple-choice and free-text questions. The main objective is to predict whether passengers will refer the airline to them or not.
 
-# Capstone-Project--Airline-Passenger-Referral-Prediction
-<p><b>Problem statement</b>: Data includes airline reviews from 2006 to 2019 for popular airlines around the world with multiple choice and free text questions. Data is scraped in Spring 2019.</p> 
 
 <p><b>Objective</b>: The main objective is to predict whether passengers will refer the airline to their friends.</p>
 
