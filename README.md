@@ -36,7 +36,6 @@ Data is scrapped in the Spring of 2019 from the Skytrax website. Data includes a
   
 <p><b>Feature Engineering</b>:
   Engineered new features based on-
-  <li>Date of travel</li>
   <li> review text such as polarity using VADER.</li>
   <li>overall rating column such as positive or negative review</li>
   <li>onehot encoding on cabin_type ,Airlines and travller_type to create new features.</li>
