@@ -53,6 +53,6 @@ Data is scrapped in the Spring of 2019 from the Skytrax website. Data includes a
 
   
  <strenght>The performance is exceptionally good but we saw a scope of improvement where we can detect anomalies and replace the recommended column with the correct one.
-All models are working great on this dataset and getting a good range of accuracies around 95%, which is pretty good. But to make sure our model is not in an overfitting condition performing cross validation techniques would help.</strenght>
+All models are working great on this dataset and getting a good range of accuracies around 95%, which is pretty good.</strenght>
 </p>
 <p>
